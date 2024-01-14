@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-e6A_mS3Ioh](https://www.frontendmentor.io/solutions/blog-preview-card-e6A_mS3Ioh)
+- Live Site URL: [https://bhateshkhairnar.github.io/Blog-Preview-Card/02-Blog.html](https://bhateshkhairnar.github.io/Blog-Preview-Card/02-Blog.html)
 
 ## My process
 
@@ -64,7 +64,7 @@ checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ## Author
 
-- Website - [BhateshKhairnar](https://www.your-site.com)
+- Website - [BhateshKhairnar](https://bhateshkhairnar.github.io/Blog-Preview-Card/02-Blog.html)
 - Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/BhateshKhairnar)
 
 
