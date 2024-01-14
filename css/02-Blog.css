@@ -1,0 +1,102 @@
+/************************/
+/* FONTS */
+/************************/
+@font-face {
+  font-family: "Figtree";
+  src: url("../assets/fonts/Figtree-VariableFont_wght.ttf");
+)
+/************************/
+/* MAIN */
+/************************/
+.container__center {
+  min-width: 50rem;
+  margin: 8rem auto;
+  display: grid;
+  place-items: center;
+}
+.container__content {
+  width: 37.5rem;
+  background-color: var(--White);
+  border: 1px solid var(--Black);
+  border-radius: 1.6rem;
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2.2rem;
+  box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 1);
+}
+.Blog__Img {
+  width: 100%;
+  border-radius: 1.1rem;
+}
+.content__tag {
+  background-color: var(--Yellow);
+  color: var(--Black);
+  font-size: 1.6rem;
+  font-weight: 800;
+  width: 9rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.content__text {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.color1 {
+  color: var(--Black);
+  letter-spacing: -0.1px;
+  line-height: 0.5;
+  margin-bottom: 3px;
+}
+.content__heading {
+  font-size: 2.4rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+.content__heading__link:link,
+.content__heading__link:visited {
+  color: var(--Black);
+  text-decoration: none;
+  letter-spacing: -0.5px;
+}
+.content__heading__link:hover,
+.content__heading__link:active,
+.content__heading__link:focus {
+  color: var(--Yellow);
+  transition: all 0.5s;
+}
+.color2 {
+  color: var(--Grey);
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+}
+.content__author {
+  font-size: 1.5rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  column-gap: 1.5rem;
+}
+.author__Img {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 1.1rem;
+}
+/************************/
+/* Animation */
+/************************/
+.container__content:hover {
+  box-shadow: 1.2rem 1.2rem 0px 0px #000;
+  transform: scale(1.02) translateY(-0.5rem);
+}
+.container__content {
+  pointer-events: none;
+  transition: all 0.3s;
+}
+.content__heading {
+  pointer-events: auto;
+}
