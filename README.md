@@ -71,5 +71,4 @@ checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ## Acknowledgments
 
-- https://stackoverflow.com/questions/8114657/how-to-style-the-parent-element-when-hovering-a-child-element
-- https://stackoverflow.com/questions/1462360/css-hover-one-element-effect-for-multiple-elements
+- [https://stackoverflow.com/users/2774781/guy-m](https://stackoverflow.com/questions/8114657/how-to-style-the-parent-element-when-hovering-a-child-element)
