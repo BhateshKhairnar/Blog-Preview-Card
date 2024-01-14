@@ -108,7 +108,6 @@ body {
 .color2 {
   color: var(--Grey);
   line-height: 1.5;
-  font-weight: 600;
   font-family: "Figtree";
 }
 .content__author {
