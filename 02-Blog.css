@@ -96,8 +96,7 @@ body {
   cursor: pointer;
   font-family: "Figtree";
 }
-.content__heading:hover,
-.content__heading:active {
+.content__heading:hover{
   color: var(--Yellow);
   transition: all 0.5s;
 }
