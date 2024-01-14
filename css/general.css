@@ -1,0 +1,25 @@
+/************************/
+/* FONTS */
+/************************/
+@font-face{
+  font-family:"Figtree";src:url("../assets/fonts/Figtree-VariableFont_wght.ttf")
+}
+/************************/
+/* GENERAL STYLES */
+/************************/
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "Figtree", sans-serif;
+  box-sizing: border-box;
+  background-color: var(--Yellow);
+  line-height: 1;
+}
