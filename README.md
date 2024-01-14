@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![New](https://github.com/BhateshKhairnar/Blog-Preview-Card/assets/111328681/f3256b51-821e-4e51-badc-74f24d49cec5)
+![Another](https://github.com/BhateshKhairnar/Blog-Preview-Card/assets/111328681/6d961986-8672-4b02-9001-c79be31f71dd)
+
 
 ### Links
 
