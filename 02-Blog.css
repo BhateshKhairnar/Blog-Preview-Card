@@ -85,7 +85,6 @@ body {
   color: var(--Black);
   line-height: 0.5;
   margin-bottom: 5px;
-  font-weight: 600;
   font-family: "Figtree";
 }
 .content__heading {
