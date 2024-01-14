@@ -90,17 +90,14 @@ body {
 .content__heading {
   font-size: 2.4rem;
   font-weight: 800;
-  cursor: pointer;
-  font-family: "Figtree";
-}
-.content__heading__link:link,
-.content__heading__link:visited {
   color: var(--Black);
   text-decoration: none;
   letter-spacing: -0.5px;
+  cursor: pointer;
+  font-family: "Figtree";
 }
-.content__heading__link:hover,
-.content__heading__link:active {
+.content__heading:hover,
+.content__heading:active {
   color: var(--Yellow);
   transition: all 0.5s;
 }
