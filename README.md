@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![New](https://github.com/BhateshKhairnar/Blog-Preview-Card/assets/111328681/f3256b51-821e-4e51-badc-74f24d49cec5)
 
 ### Links
 
