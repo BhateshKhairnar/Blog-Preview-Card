@@ -65,7 +65,7 @@ checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ## Author
 
-- Website - [BhateshKhairnar](https://bhateshkhairnar.github.io/Blog-Preview-Card/02-Blog.html)
+- Website - [BhateshKhairnar]()
 - Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/BhateshKhairnar)
 
 
