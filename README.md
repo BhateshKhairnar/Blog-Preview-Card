@@ -1,7 +1,5 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -12,8 +10,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
@@ -54,7 +50,3 @@ Users should be able to:
 - Website - [BhateshKhairnar]()
 - Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/BhateshKhairnar)
 
-
-## Acknowledgments
-
-- [https://stackoverflow.com/users/2774781/guy-m](https://stackoverflow.com/questions/8114657/how-to-style-the-parent-element-when-hovering-a-child-element)
